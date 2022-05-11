@@ -19,7 +19,7 @@
 <table align="center">
   <tbody><tr>
     <td align="center"><a href="https://github.com/JyotiGarde-27"><img alt="" src="https://avatars.githubusercontent.com/JyotiGarde-27" width="130px;"><br><sub><b> Jyoti Garde </b></sub></a><br><a href="https://github.com/JyotiGarde/AWS-Textract/commits?author=JyotiGarde-27" title="Jyoti Garde">🧠🚀💻🔥</a></td></a></td>
-    <td align="center"><a href="https://github.com/srikanthKulkarni"><img alt="" src="https://avatars.githubusercontent.com/srikanthKulkarni" width="130px;"><br><sub><b> Srikanth Kulkarni </b></sub></a><br><a href="https://github.com/srikanthKulkarni/AWS-Textract/commits?author=srikanthkulkarni" title="Srikanth Kulkarni">🎓👨‍💻🧠🚀 </a></td></a></td>
+    <td align="center"><a href="https://github.com/srikanthkulakarni"><img alt="" src="https://avatars.githubusercontent.com/srikanthkulakarni" width="130px;"><br><sub><b> Srikanth Kulkarni </b></sub></a><br><a href="https://github.com/srikanthkulakarni/AWS-Textract/commits?author=srikanthkulakarni" title="Srikanth Kulkarni">🎓👨‍💻🧠🚀 </a></td></a></td>
   </tr>
 </tbody>
 </table>
