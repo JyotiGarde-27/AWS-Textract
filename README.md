@@ -11,7 +11,6 @@
 #### Service - AWS Textract
 #### SDK - Boto3
 # Features 🚀
-#### Optical Character Recognization
 #### Handwritten Recognization
 # Glimpse 💫
 <div>
